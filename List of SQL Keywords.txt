@@ -1,0 +1,19 @@
+List of SQL Keywords:
+AS
+GROUP BY
+ORDER BY
+%
+_
+IS
+COUNT
+SUM
+AVG
+MIN
+MAX
+INNER JOIN
+ON
+UNION
+
+sub-queries
+
+VIEW
